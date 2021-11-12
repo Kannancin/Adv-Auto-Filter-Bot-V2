@@ -48,11 +48,11 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Devloper😎</b> : <b><i><a href="https://t.me/Moviechanda_Ower">Joker_Cinema</a></i></b>
+<b>➥ Devloper😎</b> : <b><i><a href="https://t.me/Moviechanda_Ower">Joker</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://t.me/joinchat/MiZ1nMpG7ok0NWQ1">Click Me</a></i>
 """
