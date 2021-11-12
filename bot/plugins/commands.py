@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Channel📁', url='https://t.me/keralaOttMoviesPlatform'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Group😎', url='https://t.me/Cinemachanda'),
+        InlineKeyboardButton('Main Channel', url ='https://t.me/keralaOttMoviesPlatform')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Ott realse📽️', url='https://t.me/primevideoindianrealse')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
