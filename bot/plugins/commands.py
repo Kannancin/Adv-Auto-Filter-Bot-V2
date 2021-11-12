@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Group😎', url='https://t.me/Cinemachanda'),
-        InlineKeyboardButton('Main Channel', url ='https://t.me/keralaOttMoviesPlatform')
+        InlineKeyboardButton('Main Channel💻, url ='https://t.me/keralaOttMoviesPlatform')
     ],[
         InlineKeyboardButton('Ott realse📽️', url='https://t.me/primevideoindianrealse')
     ],[
